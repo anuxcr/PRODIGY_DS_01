@@ -1,0 +1,1 @@
+This project provides a visual analysis of the population distribution for the top 10 most populous countries in 2023. The dataset used contains detailed information on global populations, including historical data and growth rates, and is visualized using a horizontal bar chart.
